@@ -130,9 +130,10 @@ The cleanup was checked for Python syntax, local links, configuration structure,
 
 ## Authors and licensing
 
-- Mobina Yousefi Moghadam
-- Iman Bidi
 - [Yazdan Bayat](https://github.com/YzdnByat)
+- [Mobina Yousefi Moghadam](https://github.com/mobinamqdm)
+- Iman Bidi
+
 
 The project artifacts identify these three authors. Individual responsibilities are not assigned here without confirmed contribution information.
 
